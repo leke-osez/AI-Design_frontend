@@ -1,7 +1,7 @@
-#A Simple yet Elegant landing page built with REACTJS and plain CSS
+# A Simple yet Elegant landing page built with REACTJS and plain CSS
 
-#DESCRIPTION
-This project has no functionality and is somewhat like a banner with elegant designs showcasing the power of CSS.
+# DESCRIPTION
+This project has no functionality and is somewhat like a banner with elegant designs showcasing the power of CSS. <br>
 It was not built to have JS functionalities but to design something really fancy with CSS.
 
 ## INSTALLATION GUIDE
