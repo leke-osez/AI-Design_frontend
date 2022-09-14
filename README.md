@@ -1,5 +1,12 @@
 # A Simple yet Elegant landing page built with REACTJS and plain CSS
 
+<p align="center" style = "float:left">
+  <img src="public/home.png"  height="350" title="hover text">
+</p>
+
+## SEE DEMO VIA THIS LINK
+https://ai-design.vercel.app/
+
 ## DESCRIPTION
 This project has no functionality and is somewhat like a banner with elegant designs showcasing the power of CSS. <br>
 It was not built to have JS functionalities but to design something really fancy with CSS.
